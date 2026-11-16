@@ -1,4 +1,4 @@
-FROM golang@sha256:a452d6273ad03a47c2f29b898d6bb57630e77baf839651ef77d03e4e049c5bf3
+FROM golang@sha256:ec47ea3725fea0cc88f6de94919aef19f40f12fc1ec0e2d1b3426dbf15ecca04
 
 ENV DEBIAN_FRONTEND=noninteractive
 
